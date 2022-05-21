@@ -9,10 +9,11 @@ Once the payment is done and invoice will be generated and email will be sent to
 
 STEPS TO FOLLOW:-
 
-     I have used 3 npm packages i.e. Express, EJS and Nodemon. 
+     I have used 3 npm packages i.e. Express, EJS and Nodemon.
      
      To install this packages enter the following commands 
      
      npm install express
      npm install nodemon
      npm install ejs
+     
